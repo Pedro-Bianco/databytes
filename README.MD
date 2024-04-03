@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    preview do podcast
+    DataBytes: Explorando Bancos de Dados com Bits de Sabedoria
 </p>
 
 <div align="center">
