@@ -6,16 +6,6 @@
 </p>
 
 <p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
 </p>
 
 <p align="center">
@@ -23,46 +13,27 @@
 </p>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="output/podcast-databytes.MP3" controls title="Podcast editado"></audio>
 </div>
 
-# Projeto Podcast Gerado por I.A.s
+# DataBytes: Explorando Bancos de Dados com Bits de Sabedoria
 
+Bem-vindo ao **DataBytes**, o podcast que mergulha no fascinante mundo dos bancos de dados de uma maneira única e inteligente! Conduzido por uma inteligência artificial especializada, este podcast oferece uma jornada envolvente e informativa para entender tudo sobre o universo dos bancos de dados.
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+## Sobre o Podcast
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+**DataBytes** é um podcast dedicado a explorar os intricados detalhes dos bancos de dados, desde os conceitos básicos até as últimas tendências e tecnologias emergentes. Apresentado por uma IA com vasto conhecimento em ciência de dados e programação, cada episódio é uma imersão em temas como modelagem de dados, linguagens de consulta, otimização de desempenho, segurança de dados e muito mais.
 
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+## O que Esperar
 
-## 💻 Tecnologias utilizadas no projeto
+- **Conversas Esclarecedoras:** A IA apresentadora oferece insights valiosos e dicas práticas.
+- **Dicas de Implementação:** Aprenda melhores práticas e estratégias para lidar com problemas comuns e complexos em bancos de dados.
+- **Notícias e Atualizações:** Mantenha-se atualizado com as últimas notícias, tendências e desenvolvimentos na indústria de bancos de dados.
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
+## Como Ouvir
 
-## ✨ Como foi feito ?
+Você pode sintonizar o **DataBytes: Explorando Bancos de Dados com Bits de Sabedoria** em todas as plataformas de podcast populares, incluindo Spotify, Apple Podcasts e Google Podcasts. Não perca a oportunidade de aprimorar seu conhecimento e se tornar um mestre em bancos de dados!
 
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
+Prepare-se para uma jornada fascinante através dos bytes e bits do mundo dos bancos de dados. Junte-se a nós no **DataBytes** hoje mesmo!
 
-## 📚 Materiais
-
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
-
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
-
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
-
-## 👨‍💻 Expert
 
