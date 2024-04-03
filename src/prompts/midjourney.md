@@ -1,0 +1,3 @@
+create an image of a robot with a microphone for the cover of a youtube channel
+
+a young bearded blond podcaster with microphone, night city side by side, camera settings f/8, 1/100s, ISO 100, complex lighting, backlighting, dynamic luminous lighting, global illumination, ultra-high resolution, realistic filter from real cores , 16K photo processing, cinematic, photorealistic, hyperrealistic, hyperrealistic, cinematic light, ultrarealistic photography, ultradetailed --ar 1:1 --v 5.2
